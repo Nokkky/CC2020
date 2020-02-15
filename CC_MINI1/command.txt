@@ -1,0 +1,34 @@
+docker run -p 8088:8088 --name my-hadoop-container -d my-hadoop
+docker exec -it my-hadoop-container bash
+
+mkdir input
+cp etc/hadoop/*xml input/
+bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-3.2.0.jar wordcount input/ output/
+
+
+hdfs dfs -put input/ input3
+hdfs dfs -ls
+
+mkdir NGram
+javac -classpath $(hadoop classpath) -d NGram/ NGram.java
+jar -cvf NGram.jar -C NGram/ .
+hadoop/bin/hadoop jar NGram.jar NGram input3/ output3 2
+hdfs dfs -cat output3/*
+
+
+
+
+mkdir AnalyzeLogs3
+javac -classpath $(hadoop classpath) -d AnalyzeLogs3/ AnalyzeLogs3.java
+jar -cvf AnalyzeLogs3.jar -C AnalyzeLogs3/ .
+hdfs dfs -put access_log input
+## remove output
+hadoop/bin/hadoop jar AnalyzeLogs3.jar AnalyzeLogs3 input/ output
+hdfs dfs -cat output/*
+
+
+
+jar
+Runs a jar file. Users can bundle their Map Reduce code in a jar file and execute it using this command.
+
+Usage: hadoop jar <jar> [mainClass] args...

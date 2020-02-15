@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LogAnalysis1:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f3f54d6-4714-4ec4-aa50-fa9b5312b1d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exapmel_MultiMapAndReducer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exapmel_MultiMapAndReducer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exapmel_MultiMapAndReducer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exapmel_MultiMapAndReducer/Exapmel_MultiMapAndReducer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exapmel_MultiMapAndReducer/src/example/StockTrans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/LogAnalysis1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogAnalysis1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/LogAnalysis1_jar/LogAnalysis1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LogAnalysis1/LogAnalysis1/LogAnalysis1$Map.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LogAnalysis1/LogAnalysis1/LogAnalysis1$Reduce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LogAnalysis1/LogAnalysis1/LogAnalysis1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LogAnalysis1/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogAnalysis1/LogAnalysis1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4/input/access_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_2/input/access_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_3/input/access_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_3/out/production/Part4_3/LogAnalysis3/TopPath$CountReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_3/out/production/Part4_3/LogAnalysis3/TopPath$TokenizerMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_3/out/production/Part4_3/LogAnalysis3/TopPath$TopPathCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_3/out/production/Part4_3/LogAnalysis3/TopPath$TopPathReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_3/src/job/Map1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_4/.idea/artifacts/Part4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_4/Part4_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_4/input/access_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_4/out/production/Part4_4/LogAnalysis4/TopHitIP$TokenizerMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_4/out/production/Part4_4/LogAnalysis4/TopHitIP$TopPathReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_4/out/production/Part4_4/LogAnalysis4/TopHitIP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part4_4/src/LogAnalysis4/TopHitIP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4/input/test_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4/out/production/Part4/LogAnalysis1/WebItemCount$Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Part4/out/production/Part4/LogAnalysis1/WebItemCount$Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4/out/production/Part4/LogAnalysis1/WebItemCount$Reduce.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Part4/out/production/Part4/LogAnalysis1/WebItemCount$Reduce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4/out/production/Part4/LogAnalysis1/WebItemCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Part4/out/production/Part4/LogAnalysis1/WebItemCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4/output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4/output/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4/output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4/output/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4/src/LogAnalysis1/WebItemCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Part4/src/LogAnalysis1/WebItemCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_2/input/test_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_2/out/artifacts/Part4_2_jar/Part4_2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Part4_2/out/artifacts/Part4_2_jar/Part4_2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_2/out/production/Part4_2/LogAnalysis2/IPCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Part4_2/out/production/Part4_2/LogAnalysis2/IPCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_2/output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_2/output/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_2/output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_2/output/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_2/src/LogAnalysis2/IPCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Part4_2/src/LogAnalysis2/IPCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_3/input/test_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_3/out/production/Part4_3/LogAnalysis3/TopPath$Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_3/out/production/Part4_3/LogAnalysis3/TopPath$Reduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_3/out/production/Part4_3/LogAnalysis3/TopPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Part4_3/out/production/Part4_3/LogAnalysis3/TopPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_3/output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_3/output/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_3/output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_3/output/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part4_3/src/LogAnalysis3/TopPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Part4_3/src/LogAnalysis3/TopPath.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1XoNZorfRfGes3M3NAXg2MA8DNL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="LogAnalysis1.Main" />
+      <module name="LogAnalysis1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f3f54d6-4714-4ec4-aa50-fa9b5312b1d0" name="Default Changelist" comment="" />
+      <created>1581708545257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581708545257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581710246490">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="467" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.797@0.23.1440.797" timestamp="1581710246490" />
+    <state x="491" y="144" key="DetectedRootsChooserDialog" timestamp="1581709517708">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="491" y="144" key="DetectedRootsChooserDialog/0.23.1440.797@0.23.1440.797" timestamp="1581709517708" />
+    <state x="217" y="23" key="SettingsEditor" timestamp="1581710253425">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="217" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1581710253425" />
+  </component>
+</project>
