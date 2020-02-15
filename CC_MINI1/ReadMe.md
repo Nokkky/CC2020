@@ -1,8 +1,6 @@
 # MiniProjet1
 All jar files are already stored at our virtual machine. You can upload them again or directly run them at our vm.
 
-### ``key_student`` file is stored in zip file.
-
 ## Part3
 * Step1 sign in to student@IP_ADDRESS
 
